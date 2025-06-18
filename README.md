@@ -1,8 +1,8 @@
-<h1 align="center">✩ Merhaba! ✩</h1>
+<h1 align="center">✩ Welcome! ✩</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> 
-  <strong>Selam! I'm Enes</strong>  
+  <strong>Hi there! I'm Enes</strong>  
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 🚀 Hakkımda
 
-- 🛠️ Aktif Projem: **Otomasyon**
+- 🛠️ Aktif Projem: **AI destekli emlak analiz sistemi**
 - 🌱 Öğrendiklerim: `Selenium`, `CQRS`, `MediatR`, `API`, `Otomasyon`, `MicroServices`
 - 💬 Sorular: `C#`, `.NET`, `SQL`
 - 📫 Bana ulaş: [metinesa@gmail.com](mailto:metinesa@gmail.com)
