@@ -56,7 +56,6 @@
 
 ## 🤝 Bağlantılarım
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tolga%20Konat-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/tolgakonat)
 [![GitHub](https://img.shields.io/badge/GitHub-EnesSamaa-black?logo=github&style=for-the-badge)](https://github.com/EnesSamaa)
 
 ---
