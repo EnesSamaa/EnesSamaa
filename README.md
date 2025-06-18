@@ -13,7 +13,7 @@
 
 ## 🚀 Hakkımda
 
-- 🛠️ Aktif Projem: **AI destekli emlak analiz sistemi**
+- 🛠️ Aktif Projem: **Otomasyon**
 - 🌱 Öğrendiklerim: `Selenium`, `CQRS`, `MediatR`, `API`, `Otomasyon`, `MicroServices`
 - 💬 Sorular: `C#`, `.NET`, `SQL`
 - 📫 Bana ulaş: [metinesa@gmail.com](mailto:metinesa@gmail.com)
