@@ -25,7 +25,7 @@
 
 ## 📈 GitHub İstatistiklerim
 
-![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enesarslan&show_icons=true&theme=tokyonight)
+![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enes&show_icons=true&theme=tokyonight)
 
 ---
 
