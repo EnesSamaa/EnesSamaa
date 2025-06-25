@@ -47,9 +47,9 @@
 
 ## ✨ Öne Çıkan Projeler
 
-- [🏡 RealEstate AI Analyzer](https://github.com/EnesSamaa/realestate-ai)
+- https://github.com/EnesSamaa/Otomasyon
 - [🤖 Cyberbullying Detection App](https://github.com/EnesSamaa/cyberbully-guard)
-- [📦 Microservice Template](https://github.com/EnesSamaa/microservice-starter)
+
 
 ---
 
