@@ -64,7 +64,7 @@
 ---
 
 
-<blockquote align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="250">
-  ✨ Hayaller kodla başlar, satır satır inşa edilir.
-</blockquote>
+  <br/> 🎮 Hayaller kodla başlar, satır satır inşa edilir.
+</p>
