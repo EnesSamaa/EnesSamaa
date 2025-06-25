@@ -9,13 +9,18 @@
   💻 Backend & Frontend Developer | 🎓 Computer Engineering Student | 🧠 AI & NLP Enthusiast  
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EnesSamaa&color=blueviolet" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/EnesSamaa?style=social" alt="Followers"/>
+</p>
+
 ---
 
 ## 🚀 Hakkımda
 
-- 🛠️ Aktif Projem: **Otomasyon**
-- 🌱 Öğrendiklerim: `Selenium`, `CQRS`, `MediatR`, `API`, `Otomasyon`, `MicroServices`
-- 💬 Sorular: `C#`, `.NET`, `SQL`
+- 🛠️ Aktif Projem: **Automation System (Selenium)**
+- 🌱 Son Zamanlarda Öğrendiklerim: `Selenium`, `CQRS`, `MediatR`, `API`, `Otomasyon`, `MicroServices`
+- 💬 Yardımcı Olabileceğim Konular: `C#`, `.NET`, `SQL`
 - 📫 Bana ulaş: [metinesa@gmail.com](mailto:metinesa@gmail.com)
 
 > ⚡ *Fun fact:* Kod yazmak satır satır çözülmesi gereken bir bilmece gibidir.
@@ -39,17 +44,16 @@
 ## 📈 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnesSamaa&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnesSamaa&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EnesSamaa&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnesSamaa&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
 ---
 
 ## ✨ Öne Çıkan Projeler
 
-- https://github.com/EnesSamaa/Otomasyon
-- [🤖 Cyberbullying Detection App](https://github.com/EnesSamaa/cyberbully-guard)
-
+- [🎾 Otomasyon](https://github.com/EnesSamaa/Otomasyon): Selenium ile geliştirilen spor salonu rezervasyon sistemi. SMS doğrulama ve saatlik tarama içerir.
+- [🤖 Cyberbullying Detection App](https://github.com/EnesSamaa/cyberbully-guard): LSTM tabanlı modelle geliştirilen Flask uygulaması. Türkçe siber zorbalık tespiti yapar.
 
 ---
 
@@ -59,7 +63,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="250">
-  <br/> 🎮 Hayaller kodla başlar, satır satır inşa edilir.
-</p>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="250">
+<blockquote align="center">
+  ✨ Hayaller kodla başlar, satır satır inşa edilir.
+</blockquote>
