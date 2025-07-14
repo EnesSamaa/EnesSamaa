@@ -52,7 +52,7 @@
 
 ## ✨ Öne Çıkan Projeler
 
-- [🎾 Otomasyon](https://github.com/EnesSamaa/Otomasyon): Selenium ile geliştirilen spor salonu rezervasyon sistemi. SMS doğrulama ve saatlik tarama içerir.
+- [🎾 Otomasyon]([https://github.com/EnesSamaa/Otomasyon](https://github.com/EnesSamaa/Otomasyon)): Selenium ile geliştirilen spor salonu rezervasyon sistemi. SMS doğrulama ve saatlik tarama içerir.
 - [🤖 Cyberbullying Detection App](https://github.com/EnesSamaa/cyberbully-guard): LSTM tabanlı modelle geliştirilen Flask uygulaması. Türkçe siber zorbalık tespiti yapar.
 
 ---
