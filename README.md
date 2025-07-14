@@ -18,12 +18,11 @@
 
 ## 🚀 Hakkımda
 
-- 🛠️ Aktif Projem: **Automation System (Selenium)**
-- 🌱 Son Zamanlarda Öğrendiklerim: `Selenium`, `CQRS`, `MediatR`, `API`, `Otomasyon`, `MicroServices`
+- 🔧 Aktif Proje: **Automation System (Selenium)**
+- 📚 Son Zamanlarda Öğrendiklerim: `Selenium`, `CQRS`, `MediatR`, `API`, `Otomasyon`, `MicroServices`
 - 💬 Yardımcı Olabileceğim Konular: `C#`, `.NET`, `SQL`
 - 📫 Bana ulaş: [metinesa@gmail.com](mailto:metinesa@gmail.com)
 
-> ⚡ *Fun fact:* Kod yazmak satır satır çözülmesi gereken bir bilmece gibidir.
 
 ---
 
