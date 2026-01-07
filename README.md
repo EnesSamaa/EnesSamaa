@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EnesSamaa&color=blueviolet" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/EnesSamaa?style=social" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=EnesSamaa&color=blueviolet" alt="EnesSamaa" />
+<img src="https://img.shields.io/github/followers/EnesSamaa?style=social" alt="Followers"/>
 </p>
 
 ---
