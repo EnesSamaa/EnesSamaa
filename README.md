@@ -149,7 +149,7 @@ impl Developer {
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=EnesSamaa&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8&stroke=7c3aed" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=EnesSamaa&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=94A3B8&stroke=7C3AED" alt="GitHub Streak"/>
 
 </div>
 
