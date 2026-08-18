@@ -164,7 +164,7 @@ impl Developer {
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=EnesSamaa&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=94A3B8&stroke=7C3AED" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EnesSamaa&theme=tokyo-night&bg_color=0D1117&color=a78bfa&line=7c3aed&point=e2e8f0&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
