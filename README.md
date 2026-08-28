@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=680&lines=🏠+Built+myremaxnote.com+—+Production+PWA+%40+RE%2FMAX+NOTE;🦀+Building+Zero-Trust+AI+Security+Systems;⚙️+Full-Stack+%26+Systems+Developer;🎮+Unity+Game+Developer;🧠+AI+%26+NLP+Enthusiast;🎓+Computer+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=680&lines=🏠+Built+myremaxnote.com+—+Production+PWA+%40+RE%2FMAX+NOTE;✨+Built+seckinhaliyikama.com+—+Production+Web+Platform;🦀+Building+Zero-Trust+AI+Security+Systems;⚙️+Full-Stack+%26+Systems+Developer;🎮+Unity+Game+Developer;🧠+AI+%26+NLP+Enthusiast;🎓+Computer+Engineering+Student)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,6 +22,10 @@
   <a href="https://myremaxnote.com" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20myremaxnote.com-LIVE-22c55e?style=for-the-badge&labelColor=14532d" alt="myremaxnote.com"/>
   </a>
+  &nbsp;
+  <a href="https://seckinhaliyikama.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20seckinhaliyikama.com-LIVE-22c55e?style=for-the-badge&labelColor=14532d" alt="seckinhaliyikama.com"/>
+  </a>
 </p>
 
 </div>
@@ -36,7 +40,7 @@ struct Developer {
     location:  "Ankara, Türkiye 🇹🇷",
     company:   "RE/MAX NOTE",
     role:      "Full-Stack Developer & Systems Engineer",
-    shipped:   "myremaxnote.com — Production PWA for RE/MAX NOTE advisors",
+    shipped:   "myremaxnote.com & seckinhaliyikama.com — Live Production Web Apps",
     focus:     ["PWA Development", "Zero-Trust AI Security", "Game Dev"],
     languages: ["Rust", "C#", "Python", "JavaScript", "C"],
     education: "Computer Engineering Student",
@@ -45,9 +49,8 @@ struct Developer {
 
 impl Developer {
     fn proudest_work(&self) -> &str {
-        // A full PWA: React + Vite, iOS-ready, SEO complete, accessibility-first
-        // Used daily by RE/MAX NOTE advisors — not a side project, a real product
-        "myremaxnote.com"
+        // Full production apps used daily by businesses & real clients
+        "myremaxnote.com & seckinhaliyikama.com"
     }
 
     fn current_mission(&self) -> &str {
@@ -64,7 +67,8 @@ impl Developer {
 
 **🚢 Shipped to Production**
 
-→ **[myremaxnote.com](https://myremaxnote.com)** — Full PWA advisor panel for RE/MAX NOTE
+→ **[myremaxnote.com](https://myremaxnote.com)** — Full PWA advisor panel for RE/MAX NOTE  
+→ **[seckinhaliyikama.com](https://seckinhaliyikama.com)** — Production corporate website for Seçkin Halı Yıkama
 
 **🔭 Currently building**
 
@@ -83,13 +87,13 @@ impl Developer {
 
 **🎯 Goals for 2026**
 
-→ Grow myremaxnote.com with new features  
+→ Grow production platforms with new features  
 → Ship AegisMCP-Gateway to production  
 → Deep dive into distributed systems  
 
 **⚡ Fun fact**
 
-→ I wrote a production PWA used by a real estate firm *while* studying CS 🏠
+→ I wrote production web apps used by real businesses *while* studying CS 🚀
 
 **📫 Reach me**
 
@@ -140,6 +144,7 @@ impl Developer {
 | 🏆 Project | 📝 Description | 🔧 Stack | 🔗 |
 |---|---|---|---|
 | 🌐 **myremaxnote.com** | **Production PWA** — Advisor panel for RE/MAX NOTE real estate firm. Full iOS & Android installable PWA with OG/Twitter SEO, accessibility (skip links), analytics integration, and mobile-first UX. Used daily by real advisors. | `React` `Vite` `PWA` `TypeScript` | [→ Live](https://myremaxnote.com) |
+| 🌐 **seckinhaliyikama.com** | **Production Web Platform** — Modern, fast, and mobile-responsive corporate web platform built for Seçkin Halı Yıkama with full SEO and optimized user experience. | `Web` `Responsive` `SEO` `UI/UX` | [→ Live](https://seckinhaliyikama.com) |
 | **AegisMCP-Gateway** | High-performance Zero-Trust Security Gateway & Reverse Proxy for Model Context Protocol (MCP). WASI 0.2 runtime sandboxing, fine-grained tool authorization, cryptographic Merkle proof auditing. | `Rust` `WASI` `MCP` | [→ View](https://github.com/EnesSamaa/AegisMCP-Gateway) |
 | **mcp-safegate** | High-performance, WASI 0.2 & Merkle tree powered security proxy for AI agents. Acts as a gatekeeper between AI agents and MCP servers. | `Rust` `WASI` `Merkle Trees` | [→ View](https://github.com/EnesSamaa/mcp-safegate) |
 | **friendzone-backend** | Full-featured social backend API built with C# and .NET. Clean architecture with modern patterns. | `C#` `.NET` `SQL` | [→ View](https://github.com/EnesSamaa/friendzone-backend) |
