@@ -169,7 +169,7 @@ impl Developer {
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EnesSamaa&theme=tokyo-night&bg_color=0D1117&color=a78bfa&line=7c3aed&point=e2e8f0&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnesSamaa&theme=tokyonight" width="100%" alt="Enes Arslan's GitHub contribution activity"/>
 
 </div>
 
