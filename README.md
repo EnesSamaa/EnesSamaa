@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:3B82F6&height=180&section=header&text=Enes%20Arslan&fontSize=52&fontColor=F0F6FC&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Product%20Engineer&descSize=18&descColor=C9D1D9&descAlignY=60" alt="Enes Arslan" />
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=18&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=640&lines=Shipping+myremaxnote.com+%E2%80%94+production+PWA;Building+Zero-Trust+security+for+AI+agents;Full-Stack+%26+Systems+Developer;Computer+Engineering+student+%C2%B7+Ankara,+T%C3%BCrkiye" alt="Typing SVG" /></a>
+<img src="assets/hero.svg" alt="Enes Arslan — Full-Stack Developer &amp; Product Engineer" width="100%" />
 
 <br/>
 
@@ -18,9 +16,7 @@
 
 ## `01` — Right now
 
-| 🚢 Shipping | 🔭 Building | 🌱 Learning |
-| :-- | :-- | :-- |
-| **Office management SaaS**<br/>New modules for [myremaxnote.com](https://myremaxnote.com): buyer matching, credit system, bank & listing sync | **[AegisMCP-Gateway](https://github.com/EnesSamaa/AegisMCP-Gateway)**<br/>Zero-Trust gateway for AI agents · Rust + WASI 0.2<br/>Plus an AI agent team, quietly in the works | **Distributed systems**<br/>Rust · WebAssembly · Microservices · CQRS · MediatR |
+<img src="assets/now.svg" alt="Right now" width="100%" />
 
 ## `02` — About
 
@@ -35,26 +31,8 @@ ask me   React · PWA · .NET · SQL · Supabase · Unity
 
 ## `03` — In production
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [myremaxnote.com](https://myremaxnote.com)
-Office management platform for RE/MAX NOTE — installable PWA for advisors and managers, used daily.
-
-`React` `TypeScript` `Vite` `Supabase` `PWA`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [seckinhaliyikama.com](https://seckinhaliyikama.com)
-Corporate site for Seçkin Halı Yıkama — fast, mobile-first, built for local SEO.
-
-`Web` `Responsive` `SEO`
-
-</td>
-</tr>
-</table>
+<a href="https://myremaxnote.com"><img src="assets/prod-myremaxnote.svg" alt="myremaxnote.com" width="49%" /></a>
+<a href="https://seckinhaliyikama.com"><img src="assets/prod-seckin.svg" alt="seckinhaliyikama.com" width="49%" /></a>
 
 ## `04` — Open source
 
