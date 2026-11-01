@@ -1,132 +1,216 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:3B82F6&height=180&section=header&text=Enes%20Arslan&fontSize=52&fontColor=F0F6FC&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Product%20Engineer&descSize=18&descColor=C9D1D9&descAlignY=60" alt="Enes Arslan" />
+<!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=18&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=640&lines=Shipping+myremaxnote.com+%E2%80%94+production+PWA;Building+Zero-Trust+security+for+AI+agents;Full-Stack+%26+Systems+Developer;Computer+Engineering+student+%C2%B7+Ankara,+T%C3%BCrkiye" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Enes%20Arslan&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%7C%20Systems%20Builder%20%7C%20AI%20Enthusiast&descAlignY=58&animation=twinkling&fontColor=ffffff" width="100%"/>
 
 <br/>
 
-[![myremaxnote.com](https://img.shields.io/badge/myremaxnote.com-LIVE-3B82F6?style=flat-square&labelColor=0D1117)](https://myremaxnote.com)
-[![seckinhaliyikama.com](https://img.shields.io/badge/seckinhaliyikama.com-LIVE-3B82F6?style=flat-square&labelColor=0D1117)](https://seckinhaliyikama.com)
-[![Mail](https://img.shields.io/badge/metinesa%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:metinesa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-enes57-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/enes57)
-![Profile views](https://komarev.com/ghpvc/?username=EnesSamaa&style=flat-square&color=3B82F6&labelColor=0D1117&label=VIEWS)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=680&lines=🏠+Built+myremaxnote.com+—+Production+PWA+%40+RE%2FMAX+NOTE;✨+Built+seckinhaliyikama.com+—+Production+Web+Platform;🦀+Building+Zero-Trust+AI+Security+Systems;⚙️+Full-Stack+%26+Systems+Developer;🎮+Unity+Game+Developer;🧠+AI+%26+NLP+Enthusiast;🎓+Computer+Engineering+Student)](https://git.io/typing-svg)
+
+<br/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=EnesSamaa&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://github.com/EnesSamaa?tab=followers">
+    <img src="https://img.shields.io/github/followers/EnesSamaa?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=FOLLOWERS" alt="Followers"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI%20Security%20%7C%20PWA-blueviolet?style=for-the-badge&labelColor=1e1b4b" alt="Focus"/>
+  &nbsp;
+  <a href="https://myremaxnote.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20myremaxnote.com-LIVE-22c55e?style=for-the-badge&labelColor=14532d" alt="myremaxnote.com"/>
+  </a>
+  &nbsp;
+  <a href="https://seckinhaliyikama.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20seckinhaliyikama.com-LIVE-22c55e?style=for-the-badge&labelColor=14532d" alt="seckinhaliyikama.com"/>
+  </a>
+</p>
 
 </div>
 
-<br/>
+---
 
-## `01` — Right now
+## 🧬 About Me
 
-| 🚢 Shipping | 🔭 Building | 🌱 Learning |
-| :-- | :-- | :-- |
-| **Office management SaaS**<br/>New modules for [myremaxnote.com](https://myremaxnote.com): buyer matching, credit system, bank & listing sync | **[AegisMCP-Gateway](https://github.com/EnesSamaa/AegisMCP-Gateway)**<br/>Zero-Trust gateway for AI agents · Rust + WASI 0.2<br/>Plus an AI agent team, quietly in the works | **Distributed systems**<br/>Rust · WebAssembly · Microservices · CQRS · MediatR |
+```rust
+struct Developer {
+    name:      "Enes Arslan",
+    location:  "Ankara, Türkiye 🇹🇷",
+    company:   "RE/MAX NOTE",
+    role:      "Full-Stack Developer & Systems Engineer",
+    shipped:   "myremaxnote.com & seckinhaliyikama.com — Live Production Web Apps",
+    focus:     ["PWA Development", "Zero-Trust AI Security", "Game Dev"],
+    languages: ["Rust", "C#", "Python", "JavaScript", "C"],
+    education: "Computer Engineering Student",
+    passion:   "Shipping production-grade software that real people rely on",
+}
 
-## `02` — About
+impl Developer {
+    fn proudest_work(&self) -> &str {
+        // Full production apps used daily by businesses & real clients
+        "myremaxnote.com & seckinhaliyikama.com"
+    }
 
-Computer Engineering student who ships production software on the side. I work solo across the stack at **RE/MAX NOTE** in Ankara — internal tools, websites and a full management platform — with AI-augmented development as my daily workflow.
-
-```text
-role     Software Developer · RE/MAX NOTE
-before   Intern · RE/MAX Türkiye HQ
-school   Tokat Gaziosmanpaşa University — Computer Engineering
-ask me   React · PWA · .NET · SQL · Supabase · Unity
+    fn current_mission(&self) -> &str {
+        "Securing AI agents with Zero-Trust architecture & WASI sandboxing"
+    }
+}
 ```
 
-## `03` — In production
+<br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-### 🌐 [myremaxnote.com](https://myremaxnote.com)
-Office management platform for RE/MAX NOTE — installable PWA for advisors and managers, used daily.
+**🚢 Shipped to Production**
 
-`React` `TypeScript` `Vite` `Supabase` `PWA`
+→ **[myremaxnote.com](https://myremaxnote.com)** — Full PWA advisor panel for RE/MAX NOTE  
+→ **[seckinhaliyikama.com](https://seckinhaliyikama.com)** — Production corporate website for Seçkin Halı Yıkama
+
+**🔭 Currently building**
+
+→ **AegisMCP-Gateway** — Zero-Trust Security Gateway for AI Agents (Rust + WASI 0.2)
+
+**🌱 Learning**
+
+→ `Rust` · `WASI` · `MicroServices` · `CQRS` · `MediatR` · `WebAssembly`
+
+**💬 Ask me about**
+
+→ `React` · `Vite` · `PWA` · `C#` · `.NET` · `SQL` · `Unity`
 
 </td>
-<td width="50%" valign="top">
+<td>
 
-### 🌐 [seckinhaliyikama.com](https://seckinhaliyikama.com)
-Corporate site for Seçkin Halı Yıkama — fast, mobile-first, built for local SEO.
+**🎯 Goals for 2026**
 
-`Web` `Responsive` `SEO`
+→ Grow production platforms with new features  
+→ Ship AegisMCP-Gateway to production  
+→ Deep dive into distributed systems  
+
+**⚡ Fun fact**
+
+→ I wrote production web apps used by real businesses *while* studying CS 🚀
+
+**📫 Reach me**
+
+→ [metinesa@gmail.com](mailto:metinesa@gmail.com)
 
 </td>
 </tr>
 </table>
 
-## `04` — Open source
+<br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-**[AegisMCP-Gateway](https://github.com/EnesSamaa/AegisMCP-Gateway)**<br/>
-Zero-Trust gateway & reverse proxy for MCP — WASI sandboxing, per-tool authorization, Merkle-proof audit logs.<br/>
-`Rust` `WASI` `MCP`
-
-</td>
-<td width="50%" valign="top">
-
-**[mcp-safegate](https://github.com/EnesSamaa/mcp-safegate)**<br/>
-Security proxy that gatekeeps every call between AI agents and MCP servers.<br/>
-`Rust` `WASI` `Merkle Trees`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[friendzone-backend](https://github.com/EnesSamaa/friendzone-backend)**<br/>
-Location-based social matching API — matching, invites and AI-generated profiles.<br/>
-`C#` `.NET` `SQL`
-
-</td>
-<td width="50%" valign="top">
-
-**[ZORBALIK-KALKANI](https://github.com/EnesSamaa/ZORBALIK-KALKANI)**<br/>
-Real-time cyberbullying detection that flags online harassment with NLP.<br/>
-`Python` `NLP` `AI`
-
-</td>
-</tr>
-</table>
-
-<sub>also → [Otomasyon](https://github.com/EnesSamaa/Otomasyon) (Selenium booking automation) · [MobileGameStartMenu](https://github.com/EnesSamaa/MobileGameStartMenu) (Unity menu + shaders) · [Prensesi-Kurtarma](https://github.com/EnesSamaa/Prensesi-Kurtarma) (2D Unity platformer)</sub>
-
-## `05` — Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| | |
-| :-- | :-- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6) ![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=A78BFA) ![PWA](https://img.shields.io/badge/PWA-0D1117?style=flat-square&logo=pwa&logoColor=5A0FC8) |
-| **Backend** | ![.NET](https://img.shields.io/badge/.NET-0D1117?style=flat-square&logo=dotnet&logoColor=A78BFA) ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E) ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB) ![Rust](https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=DEA584) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1) ![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3ECF8E) ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1) ![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=75B8E0) |
-| **Systems & more** | ![WebAssembly](https://img.shields.io/badge/WASI-0D1117?style=flat-square&logo=webassembly&logoColor=654FF0) ![Unity](https://img.shields.io/badge/Unity-0D1117?style=flat-square&logo=unity&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-0D1117?style=flat-square&logo=selenium&logoColor=43B02A) ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032) |
+### 🦀 Systems & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,cs,dotnet,python,c&theme=dark" alt="Systems"/>
+</p>
+
+### 🎮 Game Development
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,cs&theme=dark" alt="Game Dev"/>
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,postman,git,github,vscode,visualstudio&theme=dark" alt="Tools"/>
+</p>
+
+### 🌐 Web, PWA & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,ts,js,html,css,selenium&theme=dark" alt="Web"/>
+</p>
 
 </div>
 
-## `06` — Activity
+<br/>
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sales07.vercel.app/api?username=EnesSamaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=e2e8f0&ring_color=3b82f6&cache_seconds=3600" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats-sales07.vercel.app/api/top-langs/?username=EnesSamaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=e2e8f0&cache_seconds=3600" alt="Top languages" />
+| 🏆 Project | 📝 Description | 🔧 Stack | 🔗 |
+|---|---|---|---|
+| 🌐 **myremaxnote.com** | **Production PWA** — Advisor panel for RE/MAX NOTE real estate firm. Full iOS & Android installable PWA with OG/Twitter SEO, accessibility (skip links), analytics integration, and mobile-first UX. Used daily by real advisors. | `React` `Vite` `PWA` `TypeScript` | [→ Live](https://myremaxnote.com) |
+| 🌐 **seckinhaliyikama.com** | **Production Web Platform** — Modern, fast, and mobile-responsive corporate web platform built for Seçkin Halı Yıkama with full SEO and optimized user experience. | `Web` `Responsive` `SEO` `UI/UX` | [→ Live](https://seckinhaliyikama.com) |
+| **AegisMCP-Gateway** | High-performance Zero-Trust Security Gateway & Reverse Proxy for Model Context Protocol (MCP). WASI 0.2 runtime sandboxing, fine-grained tool authorization, cryptographic Merkle proof auditing. | `Rust` `WASI` `MCP` | [→ View](https://github.com/EnesSamaa/AegisMCP-Gateway) |
+| **mcp-safegate** | High-performance, WASI 0.2 & Merkle tree powered security proxy for AI agents. Acts as a gatekeeper between AI agents and MCP servers. | `Rust` `WASI` `Merkle Trees` | [→ View](https://github.com/EnesSamaa/mcp-safegate) |
+| **friendzone-backend** | Full-featured social backend API built with C# and .NET. Clean architecture with modern patterns. | `C#` `.NET` `SQL` | [→ View](https://github.com/EnesSamaa/friendzone-backend) |
+| **ZORBALIK-KALKANI** | Real-time cyber bullying detection module — monitors and flags online harassment using NLP. | `Python` `NLP` `AI` | [→ View](https://github.com/EnesSamaa/ZORBALIK-KALKANI) |
+| **Otomasyon** | Smart appointment automation system using Selenium — auto-fills forms, reads SMS verification codes, and completes bookings end-to-end. | `C#` `Selenium` | [→ View](https://github.com/EnesSamaa/Otomasyon) |
+| **MobileGameStartMenu** | Professional animated start menu system for mobile Unity games with custom shaders. ⭐ 2 stars | `Unity` `ShaderLab` `C#` | [→ View](https://github.com/EnesSamaa/MobileGameStartMenu) |
+| **Prensesi-Kurtarma** | A complete 2D platformer game in Unity — 2 levels, enemy AI, collectibles. | `Unity` `C#` `ShaderLab` | [→ View](https://github.com/EnesSamaa/Prensesi-Kurtarma) |
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=EnesSamaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&ring_color=7c3aed&cache_seconds=3600"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=EnesSamaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&cache_seconds=3600"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/EnesSamaa/EnesSamaa/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnesSamaa&theme=tokyonight" width="100%" alt="Enes Arslan's GitHub contribution activity"/>
 
 </div>
 
 <br/>
 
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnesSamaa/EnesSamaa/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EnesSamaa/EnesSamaa/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EnesSamaa/EnesSamaa/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+
+
+<br/>
+
+---
+
+## 🌐 Connect With Me
+
 <div align="center">
 
-*"Ship it, learn from it, ship it better."*
+<a href="mailto:metinesa@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-metinesa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b"/>
+</a>
+&nbsp;
+<a href="https://github.com/EnesSamaa">
+  <img src="https://img.shields.io/badge/GitHub-EnesSamaa-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:3B82F6&height=100&section=footer" alt="" />
+<br/><br/>
+
+<i>"The best code is the code that never needs to be explained — it just works, securely."</i>
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
